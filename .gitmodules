@@ -1,3 +1,6 @@
 [submodule "myJobSite-Frontend-Svelte"]
 	path = myJobSite-Frontend-Svelte
 	url = ./myJobSite-Frontend-Svelte/
+[submodule "myJobSite-Backend-Go"]
+	path = myJobSite-Backend-Go
+	url = ./myJobSite-Backend-Go/
